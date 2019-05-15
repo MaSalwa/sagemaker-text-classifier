@@ -1,13 +1,10 @@
-_build
-_tracks
+node_modules
 
-opa-debug-js
+# Book build output
+_book
 
-*.opp
-*.opx
-*.opx.broken
-*.dump
-*.api
-*.api-txt
-*.exe
-*.log
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+.vscode/settings.json
